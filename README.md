@@ -91,13 +91,17 @@ Key metrics such as **average price**, **occupancy rates**, and **revenue potent
 ## 📷 **Visualizations**
 
 
-### 📊 Bar Chart: Property Type Performance
-![Bar Chart](![image](https://github.com/user-attachments/assets/0d4000a6-b1b4-4d96-97c0-3a8f70e4db67)
+### 📊 Column Chart: Property Type Performance
+![image](https://github.com/user-attachments/assets/a91ade29-bbe3-4c59-97cd-e8ddc391ee0b)
+
 
 
 ### 📈 Line Chart: Revenue Trends Over Time
-![Line Chart](![image](https://github.com/user-attachments/assets/1027fd21-af90-4536-854a-e2c218145058)
+![image](https://github.com/user-attachments/assets/8a4c089c-96a2-4810-99d8-9d68886f2ed8)
 
+
+### 🛠️ **Bar Chart**: Price by Zipcode
+![image](https://github.com/user-attachments/assets/7fc02847-d3ca-4194-b4a8-f15cb46e0fff)
 
 
 
