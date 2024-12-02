@@ -42,9 +42,7 @@ Key metrics such as **average price**, **occupancy rates**, and **revenue potent
 - 🏠 Highlighted trends in property types and occupancy rates to inform listing optimization.
 - 🎯 Provided actionable insights for hosts to align their offerings with customer preferences.
 - 📊 Developed a **user-friendly dashboard** for dynamic exploration of data insights.
-- For more detailed report, please click [Airbnb Listings Dashboard Presentation.pptx]()
-- [Airbnb Listings Dashboard Presentation.pptx](https://github.com/user-attachments/files/17982947/Airbnb.Listings.Dashboard.Presentation.pptx)
-
+- For more detailed report, please click [Airbnb Listings Dashboard Presentation.pptx](https://github.com/DataBySwapna/Airbnb-Listings-Dashboard/blob/main/Airbnb%20Listings%20Dashboard%20Presentation.pptx)
 
 ---
 
