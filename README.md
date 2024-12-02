@@ -72,8 +72,9 @@ Key metrics such as **average price**, **occupancy rates**, and **revenue potent
 ### **4. Dashboard Design**:
 - Designed an **interactive Tableau dashboard** with:
   
-  - 📊 **Bar charts**: Property type performance.
+  - 📊 **Column charts**: Property type performance.
   - 📈 **Line charts**: Revenue trends over time.
+  - 🛠️ **Bar Chart**: Price by zip codes.
   - 🎛️ **Filters**: Drill down by location, price range, and property type.
 
 ### **5. Insights and Analysis**:
