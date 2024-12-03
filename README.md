@@ -1,4 +1,3 @@
-
 # 🏠 Airbnb Listings Dashboard
 
 ## 🎯 **Goal**
