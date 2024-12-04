@@ -1,4 +1,4 @@
-# 🏠 Airbnb Listings Dashboard
+# 🏠 Airbnb Listings Analysis Dashboard
 
 ## 🎯 **Goal**
 To create an **interactive Tableau dashboard** for analyzing Airbnb listings, focusing on:
