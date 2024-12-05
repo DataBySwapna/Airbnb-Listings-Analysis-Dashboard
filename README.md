@@ -51,7 +51,8 @@ Key metrics such as **average price**, **occupancy rates**, and **revenue potent
   - 📈 **Line charts**: Revenue trends over time.
   - 🛠️ **Bar Chart**: Price by zip codes.
   - 🎛️ **Filters**: Drill down by location, price range, and property type.
-- For more detailed report, please click https://public.tableau.com/app/profile/swapna.macha/viz/AirbnbListingsDashboard_17329030741340/Dashboard1
+- For more detailed report, please click
+  [Tableau Public](https://public.tableau.com/app/profile/swapna.macha/viz/AirbnbListingsDashboard_17329030741340/Dashboard1)
 ---
 ## 📷 **Visualizations**
 ### 📊 Column Chart: Property Type Performance
