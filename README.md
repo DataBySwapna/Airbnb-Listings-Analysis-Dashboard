@@ -52,6 +52,15 @@ Key metrics such as **average price**, **occupancy rates**, and **revenue potent
   - 🛠️ **Bar Chart**: Price by zip codes.
   - 🎛️ **Filters**: Drill down by location, price range, and property type.
 - For more detailed report, please click https://public.tableau.com/app/profile/swapna.macha/viz/AirbnbListingsDashboard_17329030741340/Dashboard1
+---
+## 📷 **Visualizations**
+### 📊 Column Chart: Property Type Performance
+![image](https://github.com/user-attachments/assets/a91ade29-bbe3-4c59-97cd-e8ddc391ee0b)
+### 📈 Line Chart: Revenue Trends Over Time
+![image](https://github.com/user-attachments/assets/8a4c089c-96a2-4810-99d8-9d68886f2ed8)
+### 🛠️ **Bar Chart**: Price by Zipcode
+![image](https://github.com/user-attachments/assets/7fc02847-d3ca-4194-b4a8-f15cb46e0fff)
+---
 ## 🚀 **Results**
 - 📍 Identified **high-demand locations** with higher average pricing potential.
 - 🏠 Highlighted trends in property types and occupancy rates to inform listing optimization.
@@ -64,14 +73,7 @@ Key metrics such as **average price**, **occupancy rates**, and **revenue potent
 ### **6. Recommendations**:
 - 📑 Documented findings with actionable recommendations:
   - Optimize pricing strategies.
-  - Improve property offerings.--
-## 📷 **Visualizations**
-### 📊 Column Chart: Property Type Performance
-![image](https://github.com/user-attachments/assets/a91ade29-bbe3-4c59-97cd-e8ddc391ee0b)
-### 📈 Line Chart: Revenue Trends Over Time
-![image](https://github.com/user-attachments/assets/8a4c089c-96a2-4810-99d8-9d68886f2ed8)
-### 🛠️ **Bar Chart**: Price by Zipcode
-![image](https://github.com/user-attachments/assets/7fc02847-d3ca-4194-b4a8-f15cb46e0fff)
+  - Improve property offerings.
 ---
 ## 📌 **Conclusion**
 This project showcases how Tableau can turn raw data into **meaningful insights** through interactive dashboards. It empowers stakeholders with a clear understanding of **pricing trends**, **occupancy patterns**, and **property performance** to enhance decision-making.
