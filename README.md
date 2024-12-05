@@ -51,8 +51,7 @@ Key metrics such as **average price**, **occupancy rates**, and **revenue potent
   - 📈 **Line charts**: Revenue trends over time.
   - 🛠️ **Bar Chart**: Price by zip codes.
   - 🎛️ **Filters**: Drill down by location, price range, and property type.
-- For more detailed report, please click [Airbnb Listings Dashboard Presentation.pptx](https://github.com/DataBySwapna/Airbnb-Listings-Dashboard/blob/main/Airbnb%20Listings%20Dashboard%20Presentation.pptx)
----
+- For more detailed report, please click https://public.tableau.com/app/profile/swapna.macha/viz/AirbnbListingsDashboard_17329030741340/Dashboard1
 ## 🚀 **Results**
 - 📍 Identified **high-demand locations** with higher average pricing potential.
 - 🏠 Highlighted trends in property types and occupancy rates to inform listing optimization.
