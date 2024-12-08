@@ -56,11 +56,12 @@ Key metrics such as **average price**, **occupancy rates**, and **revenue potent
 ---
 ## 📷 **Visualizations**
 ### 📊 Column Chart: Property Type Performance
-![image](https://github.com/user-attachments/assets/a91ade29-bbe3-4c59-97cd-e8ddc391ee0b)
+![image](https://github.com/user-attachments/assets/13244e1a-d3df-4f44-9a10-2f58a3de2d3f)
 ### 📈 Line Chart: Revenue Trends Over Time
-![image](https://github.com/user-attachments/assets/8a4c089c-96a2-4810-99d8-9d68886f2ed8)
+![image](https://github.com/user-attachments/assets/c31671bf-31b5-4809-ae73-6de881bf6822)
 ### 🛠️ **Bar Chart**: Price by Zipcode
-![image](https://github.com/user-attachments/assets/7fc02847-d3ca-4194-b4a8-f15cb46e0fff)
+![image](https://github.com/user-attachments/assets/dcbe6408-fe04-4927-b896-307ca8d804b8)
+
 ---
 ## 🚀 **Results**
 - 📍 Identified **high-demand locations** with higher average pricing potential.
