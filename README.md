@@ -76,6 +76,6 @@ Key metrics such as **average price**, **occupancy rates**, and **revenue potent
   - Optimize pricing strategies.
   - Improve property offerings.
 ---
-## 📌 **Conclusion**
-This project showcases how Tableau can turn raw data into **meaningful insights** through interactive dashboards. It empowers stakeholders with a clear understanding of **pricing trends**, **occupancy patterns**, and **property performance** to enhance decision-making.
+### 📌 **Conclusion**
+**This project showcases how Tableau can turn raw data into **meaningful insights** through interactive dashboards. It empowers stakeholders with a clear understanding of **pricing trends**, **occupancy patterns**, and **property performance** to enhance decision-making.**
 ---
